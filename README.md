@@ -1,5 +1,5 @@
 -  Hi, I’m @oliverheady
--  I’m looking for a summer 2023 internship in data analytics, data science, or a similar field!
+-  I’m graduating in May 2024, and looking for a full-time position in data analytics, data science, or a similar field!
 -  I’m currently learning to apply SQL, Python, and visualization technique to analyze and tell stories with large datasets.
 -  I’m looking to collaborate on anything to do with sustainability! Renewables, green tech, sustainable transportation systems are my passion. 
 - ... and star wars.
